@@ -37,6 +37,7 @@ The K-nearest neighbor algorithm or KNN for short is a supervised machine learni
 ![k value error rate](https://user-images.githubusercontent.com/100402089/166173244-fb44a46e-800f-4822-a7f4-32d9481a9ed8.png)
 
  In order to create an optimal model, it is crucial to locate a proper k value. This value is what is used to determine how many nearest neighbors you poll to determine the classification of the current query. When used with the KDD dataset the accuracy was above 99.5% with the mean error increasing as the K value increased.
+![prediction vs truth map](https://user-images.githubusercontent.com/100402089/166173358-46544cb5-a24b-401a-a90b-151d05ddfb5a.png)
 
 
 
