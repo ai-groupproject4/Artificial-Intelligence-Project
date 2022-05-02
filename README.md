@@ -31,6 +31,10 @@ Finally, we also ran the classifier through a set of different number of trees. 
 RF is a fast and accurate algotihm that holds up extremely well in this scenario against deep learning methods.
 
 
+#  2-K-Nearest Neighbors
+
+The K-nearest neighbor algorithm or KNN for short is a supervised machine learning algorithm that is used for both regression and classification problems. The general idea behind KNN is to use the calculated distance from a query and all examples in the data.
+
 
 
 
