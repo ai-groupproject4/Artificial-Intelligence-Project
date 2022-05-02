@@ -75,6 +75,6 @@ The K-nearest neighbor algorithm or KNN for short is a supervised machine learni
 -    Vinayakumar, R., Soman, K. P., & Poornachandran, P. (2019). A Comparative Analysis of Deep Learning Approaches for Network Intrusion Detection Systems (N-IDSs): Deep Learning for N-IDSs. International Journal of Digital Crime and Forensics (IJDCF), 11(3), 65-89. https://www.igi-global.com/article/a-comparative-analysis-of-deep-learning-approaches-for-network-intrusion-detection-systems-n-idss/227640 
 -    Sklearn.ensemble.randomforestclassifier. scikit. (n.d.). Retrieved May 1, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html 
 -    Yiu, T. (2021, September 29). Understanding random forest. Medium. Retrieved May 1, 2022, from https://towardsdatascience.com/understanding-random-forest-58381e0602d2 
--    Yiu T 2019,Visualization of a Random Forest Model Making a Prediction, digital image, Towards Data Science, accessed 28 April; 2022, <https://towardsdatascience.com/understanding-random-forest-58381e0602d2/>.
--    
+-    Yiu T 2019,Visualization of a Random Forest Model Making a Prediction, digital image, Towards Data Science, accessed 28 April; 2022, <https://towardsdatascience.com/understanding-random-forest-58381e0602d2/>. 
 -    Harrison, Onel. “Machine Learning Basics with the K-Nearest Neighbors Algorithm.” Medium, Towards Data Science, 14 July 2019, https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761#:~:text=Summary,that%20data%20in%20use%20grows. 
+-    Vinayakumarr (2018) Recoil [all.py], https://github.com/vinayakumarr/Network-Intrusion-Detection/blob/master/KDDCup%2099/classical/multiclass/all.py
