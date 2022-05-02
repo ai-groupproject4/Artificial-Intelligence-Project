@@ -77,5 +77,4 @@ The K-nearest neighbor algorithm or KNN for short is a supervised machine learni
 -    Yiu, T. (2021, September 29). Understanding random forest. Medium. Retrieved May 1, 2022, from https://towardsdatascience.com/understanding-random-forest-58381e0602d2 
 -    Yiu T 2019,Visualization of a Random Forest Model Making a Prediction, digital image, Towards Data Science, accessed 28 April; 2022, <https://towardsdatascience.com/understanding-random-forest-58381e0602d2/>.
 -    
-Harrison, Onel. “Machine Learning Basics with the K-Nearest Neighbors Algorithm.” Medium, Towards Data Science, 14 July 2019, 
--    https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761#:~:text=Summary,that%20data%20in%20use%20grows. 
+-    Harrison, Onel. “Machine Learning Basics with the K-Nearest Neighbors Algorithm.” Medium, Towards Data Science, 14 July 2019, https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761#:~:text=Summary,that%20data%20in%20use%20grows. 
