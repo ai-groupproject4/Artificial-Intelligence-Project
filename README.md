@@ -34,7 +34,9 @@ RF is a fast and accurate algotihm that holds up extremely well in this scenario
 #  2-K-Nearest Neighbors
 
 The K-nearest neighbor algorithm or KNN for short is a supervised machine learning algorithm that is used for both regression and classification problems. The general idea behind KNN is to use the calculated distance from a query and all examples in the data.
+![k value error rate](https://user-images.githubusercontent.com/100402089/166173244-fb44a46e-800f-4822-a7f4-32d9481a9ed8.png)
 
+ In order to create an optimal model, it is crucial to locate a proper k value. This value is what is used to determine how many nearest neighbors you poll to determine the classification of the current query. When used with the KDD dataset the accuracy was above 99.5% with the mean error increasing as the K value increased.
 
 
 
