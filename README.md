@@ -40,8 +40,8 @@ The K-nearest neighbor algorithm or KNN for short is a supervised machine learni
 ![prediction vs truth map](https://user-images.githubusercontent.com/100402089/166173358-46544cb5-a24b-401a-a90b-151d05ddfb5a.png)
 
 
-
-
+Video Overviewing Implementations
+https://www.youtube.com/watch?v=ya3TY4DoNX4&ab_channel=Ai-groupproject42022
 
 
 
